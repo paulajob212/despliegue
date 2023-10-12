@@ -40,7 +40,8 @@ Puedes visualizar la estructura de los controladores en la interfaz gráfica de 
 
 ### Documentación
 
-
+Diagrama UML proyecto completo [Modelado] 
+![Diagrama UML.jpg](Diagrama UML.jpg)
 
 
 
