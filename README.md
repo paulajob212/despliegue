@@ -17,7 +17,7 @@ El objetivo de este ejercicio es simular un sistema de transacciones bancarias b
 
 ### Documentación con Swagger
 
-Puedes visualizar la estructura de los controladores en la interfaz gráfica de [Swagger](http://localhost:8080/swagger-ui/), para consultar los endpoints del CRUD.
+Puedes visualizar la estructura de los controladores en la interfaz gráfica de [Swagger](http://localhost:8080/swagger-ui/index.html), para consultar los endpoints del CRUD.
 
 
 ### Características Principales
