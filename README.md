@@ -41,14 +41,7 @@ Puedes visualizar la estructura de los controladores en la interfaz gráfica de 
 ### Documentación
 
 Diagrama UML proyecto completo [Modelado] 
-![Diagrama UML.jpg](Diagrama UML.jpg)
-
-
-
-
-
-
-
+![Diagrama UML](https://github.com/jvianad/Makaia_Bank/blob/dbcc31f9389abe48edf706666dde444fd0158934/Diagrama%20UML.jpg)
 
 
 [Jean Carlo Viaña De Mares / Makaia Bootcamp]
