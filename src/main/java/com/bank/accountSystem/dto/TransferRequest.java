@@ -5,6 +5,12 @@ public class TransferRequest {
     private String targetAccountNumber;
     private double amount;
 
+    public TransferRequest(String sourceAccountNumber, String targetAccountNumber, double amount) {
+        this.sourceAccountNumber = sourceAccountNumber;
+        this.targetAccountNumber = targetAccountNumber;
+        this.amount = amount;
+    }
+
     public String getSourceAccountNumber() {
         return sourceAccountNumber;
     }
